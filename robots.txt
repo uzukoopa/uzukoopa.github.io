@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzukoopa.github.io/OWj/sitemap_index.txt
+Sitemap: https://uzukoopa.github.io/XBD/sitemap_index.txt
+Sitemap: https://uzukoopa.github.io/fQk/sitemap_index.txt
+Sitemap: https://uzukoopa.github.io/saZ/sitemap_index.txt
